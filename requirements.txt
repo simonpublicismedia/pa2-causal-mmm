@@ -1,0 +1,9 @@
+pymc==6.2.0
+arviz==1.2.0
+tigramite==5.2.10.1
+numpy
+pandas
+scipy
+matplotlib
+networkx
+pyarrow
