@@ -1,5 +1,11 @@
 # Causal Discovery and Bayesian Estimation in Marketing Mix Modeling
 
+<p align="center">
+  <img src="docs/DHBW-Logo.svg.webp" alt="DHBW Ravensburg" height="55">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="docs/Publicis-Groupe-Logo.svg.webp" alt="Publicis Groupe" height="55">
+</p>
+
 > **Note for the reviewer.** This repository is public for the duration of the
 > assessment and will be set to private once the assessment is complete. The thesis
 > carries a confidentiality notice (Sperrvermerk). The repository itself contains only
